@@ -1,0 +1,50 @@
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: papayawhip;
+    height: 100vh;
+    padding: 2rem 4rem;
+}
+
+h1 {
+    width: 100%;
+    text-align: center;
+    margin: 2rem 0;
+    font-size: 300%;
+}
+
+form {
+    margin: 1rem 0;
+    padding: 1rem;
+    background-color: lemonchiffon;
+}
+
+label {
+    display: inline-block;
+    width: 40%;
+    margin-right: 1rem
+}
+
+input {
+    width: 35%;
+}
+
+button {
+    cursor: pointer;
+}
+
+button:hover {
+    box-shadow: 2px 2px 2px grey;
+}
+
+article {
+    background-color: beige;
+    height: 16rem;
+    border: 1px solid grey;
+    border-radius: 3px;
+    overflow-y: scroll;
+}
+
+p {
+    padding: 0.5rem 1rem;;
+}
